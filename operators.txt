@@ -1,0 +1,17 @@
+ int x = 2; 				// x is a variable, 2 is a literal
+ cout << 3 + 4; 			// 3 + 4 is an expression, 3 and 4 are literals, + is the operator
+ cout << "Hello, world!"; 	// "Hello, world" is a literal too
+
+ // Literals, variables, and function calls that return values are all known as operands
+
+ /*
+ operator types:
+
+ Unary:
+ act on one operand.  Example: ( - ) operator. In the expression -5, the - operator is only being applied to one operand (5) to produce a new value (-5).
+
+ Binary:
+ act on two operands. example ( + ).
+
+ Ternary:
+ act on three operands. There is only one of these in C++
